@@ -1,9 +1,6 @@
 # 👋 Hola, soy Yazmín Corvera
 
-🎓 Estudiante avanzada de Ingeniería en Sistemas de la Información  
-💻 Desarrolladora Backend / Full Stack Junior  
-🚀 Apasionada por la arquitectura de software y el desarrollo de APIs  
-
+🎓 Estudiante avanzada de Ingeniería en Sistemas de la Información en Universidad Tecnológica Nacional 
 ---
 
 ## 🧠 Sobre mí
