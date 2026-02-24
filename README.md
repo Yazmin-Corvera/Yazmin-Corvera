@@ -17,3 +17,6 @@
 - Mejorando mis habilidades en backend con .NET
 - Desarrollando proyectos Full Stack
 - Profundizando en arquitectura y buenas prácticas
+
+## Contactame
+corverayazminguadalupe@gmail.com
