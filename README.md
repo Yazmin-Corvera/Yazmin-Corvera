@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Yazmín Corvera
 
-<!--
-**Yazmin-Corvera/Yazmin-Corvera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante avanzada de Ingeniería en Sistemas de la Información  
+💻 Apasionada por el desarrollo de software  
 
-Here are some ideas to get you started:
+## 🛠 Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C# / .NET
+- SQL Server
+- Entity Framework Core
+- React
+- JavaScript
+- Git & GitHub
+
+## 📌 Actualmente
+
+- Mejorando mis habilidades en backend con .NET
+- Desarrollando proyectos Full Stack
+- Profundizando en arquitectura y buenas prácticas
